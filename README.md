@@ -1,1 +1,6 @@
-# anomaly-detection
+# Applications of AI for Anomaly Detection
+
+Whether your organization needs to monitor cybersecurity threats, fraudulent financial transactions, product defects, or equipment health, artificial intelligence can help catch data abnormalities before they impact your business. AI models can be trained and deployed to automatically analyze datasets, define “normal behavior,” and identify breaches in patterns quickly and effectively. These models can then be used to predict future anomalies. With massive amounts of data available across industries and subtle distinctions between normal and abnormal patterns, it’s critical that organizations use AI to quickly detect anomalies that pose a threat.
+
+In this workshop, you’ll learn how to implement multiple AI-based approaches to solve a specific use case of identifying network intrusions for telecommunications. You’ll learn three different anomaly detection techniques using GPU-accelerated XGBoost, deep learning-based autoencoders, and generative adversarial networks (GANs) and then implement and compare supervised and unsupervised learning techniques. At the end of the workshop, you’ll be able to use AI to detect anomalies in your work across telecommunications, cybersecurity, finance, manufacturing, and other key industries.
+
